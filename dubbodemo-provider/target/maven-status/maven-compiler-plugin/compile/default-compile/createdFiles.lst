@@ -1,0 +1,3 @@
+com\dubbo\user\impl\UserServiceImpl.class
+com\dubbo\dao\user\UserMapper.class
+com\dubbo\provider\Main.class
